@@ -14,7 +14,7 @@ recvData = list(recvReader) # 接收邮件列表
 # 第三方 SMTP 服务
 send_host = 'smtp.chinaunicom.cn'  # 设置服务器
 send_user = 'xianxy3@chinaunicom.cn' # 用户名
-send_pwd = 'Xianxy3' # 口令授权码
+send_pwd = '*********' # 口令授权码
 
 sender = 'xianxy3@chinaunicom.cn'
 
